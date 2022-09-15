@@ -1,0 +1,59 @@
+
+img{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+p{font-size: 25px;}
+h1{font-size: 40px;}
+li{font-size: 25px;}
+ul{font-size: 25px;}
+
+button{
+    background-color: orange;
+    font-family: "Michroma";
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    border: 2px solid white;
+}
+
+body{
+    background: url("../Assets/Fondo.jpg") fixed;
+    background-size: cover;
+    color: white;
+}
+
+#Principal{
+    display: block;
+    text-align: center;
+}
+
+#Logo{
+    height: 350px;
+    width: auto;
+}
+
+#Titulo{
+    font-size: 50px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.Pelicula{
+    display: flex;
+    justify-content: center;
+    margin-top: 75px;
+}
+
+.Portada{
+    display: inline;
+    width: 100%;
+    height: auto;
+}
+
+.Sinopsis{
+    display: block;
+    justify-content: center;
+    margin-left: 50px;
+}
+

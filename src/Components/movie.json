@@ -1,0 +1,50 @@
+[
+    {
+      "img":"/Assets/Que-paso-ayer.jpg",
+      "titulo":"Que Paso Ayer?",
+      "actores":"Zach Galifianakis, Ed Helms, Bradley Cooper, Ken Jeong y Justin Bartha",
+      "sinopsis":"Dos días antes de su boda, Doug y tres amigos viajan a Las Vegas para una fiesta inolvidable y salvaje. De hecho, cuando los tres acompañantes despiertan la mañana siguiente, no recuerdan nada ni encuentran a Doug. Con poco tiempo por delante, los tres amigos intentan recordar sus pasos y encontrar a Doug para que regrese a Los Ángeles para su boda.",
+      "duracion":"1h 40min",
+      "generos":"Comedia",
+      "criticas":"A un 79% de personas les gusto esta pelicula"
+
+    },
+    {
+      "img":"/Assets/Joker.jpg",
+      "titulo":"Joker",
+      "actores":"Joaquin Phoenix, Robert De Niro, Zazie Beetz",
+      "sinopsis":"Arthur Fleck adora hacer reír a la gente, pero su carrera como comediante es un fracaso. El repudio social, la marginación y una serie de trágicos acontecimientos lo conducen por el sendero de la locura y, finalmente, cae en el mundo del crimen.",
+      "duracion":"2h 2min",
+      "generos":"Suspenso, Thriller Psicológico, Crimen, Drama",
+      "criticas":"A un 90% de personas les gusto esta pelicula"
+    },
+    {
+      "img":"/Assets/Shrek.jpg",
+      "titulo":"Shrek",
+      "actores":"Mike Miyers, Eddie Murphy, Cameron Diaz",
+      "sinopsis":"Hace mucho tiempo, en una lejana ciénaga, vivía un ogro llamado Shrek. Un día, su preciada soledad se ve interrumpida por un montón de personajes de cuento de hadas que invaden su casa. Todos fueron desterrados de su reino por el malvado Lord Farquaad. Decidido a devolverles su reino y recuperar la soledad de su ciénaga, Shrek llega a un acuerdo con Lord Farquaad y va a rescatar a la princesa Fiona, la futura esposa del rey. Sin embargo, la princesa esconde un oscuro secreto.",
+      "duracion":"1h 30min",
+      "generos":"Comedia, Aventura, Fantasia, Animación, Familiar",
+      "criticas":"A un 86% de personas les gusto esta pelicula"
+    },
+    {
+         
+      "img":"/Assets/Deadpool.jpg",
+      "titulo":"Deadpool",
+      "actores":"Ryan Reynolds, Morena Baccarrin, T.J Miller, Leslie Uggams, Brianna Hildebrand, Ed Skrein",
+      "sinopsis":"Wade Wilson, tras ser sometido a un cruel experimento científico, adquiere poderes especiales que le convierten en Deadpool. Armado con sus nuevas habilidades y un retorcido sentido del humor tratará de dar caza al hombre que casi destruye su vida.",
+      "duracion":"1h 48min",
+      "generos":"Acción, Ciencia Ficción, Aventura, Comedia, SuperHeroes",
+      "criticas":"A un 87% de personas les gusto esta pelicula"
+            
+    },
+    {
+      "img":"/Assets/300.jpg",
+      "titulo":"300",
+      "actores":"Gerard Butler, Lena Headey, David Wenham, Michael Fassbender, Peter Mensah",
+      "sinopsis":"En el año 480 antes de Cristo, existe un estado de guerra entre Persia, dirigidos por el Rey Xerxes (Rodrigo Santoro), y Grecia. En la Batalla de Thermopylae, Leonidas (Gerard Butler), rey de la ciudad griega de Esparta, encabeza a sus autonombrados guerreros en contra del numeroso ejército persa. A pesar de que la muerte aguarda a los espartanos, su sacrificio inspira a toda Grecia para unirla en contra de su enemigo común.",
+      "duracion":"1h 57min",
+      "generos":"Acción, Guerra, Aventura, Fantasia, Ficción Histórica, Drama",
+      "criticas":"A un 82% de personas les gusto esta pelicula"
+    }
+]
